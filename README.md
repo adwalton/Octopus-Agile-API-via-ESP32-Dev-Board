@@ -8,3 +8,5 @@ The code contains a hard-coded theshold_tariff : when the live tariff is below t
 The code was developed in the Arduino IDE and this was used to load the software to the ESP32 Dev Module. 
 
 NOTE: the core code call on an external text file - secrets.h - to collect the WiFi credentials and your personal Octopus Agile autorisation code. an example pf this file is provided in this repository as secrets.h dummy,txt Edit and rename this file and place a copy in the same directory as the .INO file before compilation 
+
+Please see here for a view of the code running https://youtu.be/q1LvupyJpJs
