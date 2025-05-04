@@ -6,7 +6,7 @@ The code allows the ESP32 Dev Module to connect to local WiFi, get the time of d
 
 This version of the code also provides for a 128 x 64 pixel OLED display that shows the current tariff, plus other details.
 
-The code contains a hard-coded theshold_tariff : when the live tariff is below this level an output on the ESP32 Board is set. This signal may be used to turn on external devices, e.g. an electric water heater
+The code contains a hard-coded threshold_tariff : when the live tariff is below this level an output on the ESP32 Board is set. This signal may be used to turn on external devices, e.g. an electric water heater
 
 The code was developed in the Arduino IDE and this was used to load the software to the ESP32 Dev Module. 
 
